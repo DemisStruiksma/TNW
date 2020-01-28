@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <?php wp_footer();?>
+    <?php wp_head();?>
 
     <!-- <meta charset="utf-8">
     <title></title> -->
