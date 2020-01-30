@@ -1,2 +1,28 @@
 /* Theme name: Hardfork
 Author: Demis Struiksma */
+
+.c-nav-logo {
+
+}
+
+.front-page-container {
+  margin-top: 100px;
+}
+
+.single-page-container {
+  margin-top: 100px;
+}
+
+.card {
+
+}
+
+
+.card-body a {
+  font-size: 22px;
+  color: #000000;
+}
+
+.card-body a:hover {
+  color: #000000;
+}
