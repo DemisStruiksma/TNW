@@ -36,6 +36,14 @@ function include_jquery()
 }
 add_action('wp_enqueue_scripts', 'include_jquery');
 
+function include_bootstrapjs()
+{
+
+  wp_register_script('bootstrapjs', get_template_directory_uri() . '/js/bootstrap.min.js', '', 1, true);
+  wp_enqueue_script('bootstrapjs');
+
+}
+add_action('wp_enqueue_scripts', 'include_bootstrapjs');
 
 
 function loadjs()

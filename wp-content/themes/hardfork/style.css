@@ -1,9 +1,9 @@
 /* Theme name: Hardfork
 Author: Demis Struiksma */
 
-.c-nav-logo {
+/* .c-nav-logo {
 
-}
+} */
 
 .front-page-container {
   margin-top: 100px;
@@ -13,16 +13,39 @@ Author: Demis Struiksma */
   margin-top: 100px;
 }
 
+.navbar {
+  background-color: #FEFEFE;
+}
+
+.navbar-toggler {
+  background-color: #000000;
+}
+
+.navbar-toggler-icon {
+}
+
+.navbar .nav-link {
+  color: #9FA0A3;
+}
+
+.navbar .nav-link:hover {
+  color: #000000;
+}
+
+.nav-link-active {
+  color: #000000;
+}
+
 .card {
 
 }
 
 
-.card-body a {
+/* .post-title {
   font-size: 22px;
   color: #000000;
 }
 
-.card-body a:hover {
-  color: #000000;
-}
+.post-title:hover {
+  text-decoration-color: #9DE6D4;
+} */
