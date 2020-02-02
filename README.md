@@ -1,5 +1,5 @@
 # TNW
-I have created a WordPress theme, based on TNW Hard Fork: https://thenextweb.com/hardfork. You can find the actual theme [here](TNW/wp-content/themes/hardfork).
+I have created a WordPress theme, based on TNW Hard Fork: https://thenextweb.com/hardfork. You can find the actual theme [here](TNW/tree/master/wp-content/themes/hardfork).
 
 # TOOLS & RESOURCES
 - MAMP (for local development environment)
