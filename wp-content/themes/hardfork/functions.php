@@ -46,11 +46,11 @@ function include_bootstrapjs()
 add_action('wp_enqueue_scripts', 'include_bootstrapjs');
 
 
-function loadjs()
+function include_tnwjs()
 {
 
-  wp_register_script('customjs', get_template_directory_uri() . '/js/scripts.js', '', 1, true);
-  wp_enqueue_script('customjs');
+  wp_register_script('tnwjs', 'https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js', null, null, true );
+  wp_enqueue_script('tnwjs');
 
 }
-add_action('wp_enqueue_scripts', 'loadjs');
+add_action('wp_enqueue_scripts', 'include_tnwjs');

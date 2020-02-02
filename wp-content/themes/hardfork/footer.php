@@ -15,12 +15,12 @@
             <div class="footer-block">
                 <h5>More TNW</h5>
                 <ul class="footer-menu">
-                    <li><a href="https://thenextweb.com/">News</a></li>
-                    <li><a href="https://thenextweb.com/conference">Events</a></li>
-                    <li><a href="https://thenextweb.com/x">Enterprise</a></li>
-                    <li><a href="https://index.co/">Intelligence</a></li>
-                    <li><a href="https://answers.thenextweb.com/">Answers</a></li>
-                    <li><a href="https://tq.co/">Spaces</a></li>
+                    <li><a href="">News</a></li>
+                    <li><a href="">Events</a></li>
+                    <li><a href="">Enterprise</a></li>
+                    <li><a href="">Intelligence</a></li>
+                    <li><a href="">Answers</a></li>
+                    <li><a href="">Spaces</a></li>
                 </ul>
             </div>
         </div>
@@ -28,11 +28,11 @@
             <div class="footer-block">
                 <h5>About TNW</h5>
                 <ul class="footer-menu">
-                    <li><a href="https://thenextweb.com/about">About</a></li>
-                    <li><a href="https://thenextweb.com/team">Team</a></li>
-                    <li><a href="https://thenextweb.com/advertise">Advertise</a></li>
-                    <li><a href="https://thenextweb.homerun.co/">Jobs</a></li>
-                    <li><a href="https://thenextweb.com/contact">Contact</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Team</a></li>
+                    <li><a href="">Advertise</a></li>
+                    <li><a href="">Jobs</a></li>
+                    <li><a href="">Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -40,7 +40,7 @@
 </div>
 <div class="footer-split-sidebar">
     <div class="footer-block">
-        <form action="https://thenextweb.com/hardfork/newsletter/subscribe" onsubmit="dataLayer.push( {'event':'email','eventCategory':'Email','eventAction':'Sign up','eventLabel':'Footer','eventNonInteraction':1} )" class="footer-subscribe" method="post" data-ajax>
+        <form action="" onsubmit="dataLayer.push( {'event':'email','eventCategory':'Email','eventAction':'Sign up','eventLabel':'Footer','eventNonInteraction':1} )" class="footer-subscribe" method="post" data-ajax>
             <h5>Stay tuned</h5>
             <input type="hidden" name="group" value="tnw">
             <div class="footer-subscribe-success">
@@ -71,10 +71,10 @@
             </div>
         </form>
         <ul class="footer-social">
-            <li><a class="button button--icon button--outline button--rounded" href="https://www.facebook.com/thenextweb" target="_blank" rel="noopener"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#facebook"></use></svg></a></li>
-            <li><a class="button button--icon button--outline button--rounded" href="https://twitter.com/thenextweb" target="_blank" rel="noopener"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#twitter"></use></svg></a></li>
-            <li><a class="button button--icon button--outline button--rounded" href="https://www.instagram.com/thenextweb" target="_blank" rel="noopener"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#instagram"></use></svg></a></li>
-            <li><a class="button button--icon button--outline button--rounded" href="https://www.youtube.com/thenextweb" target="_blank" rel="noopener"><svg><use xlink:href="/sub-brand/assets/img/icons.svg#youtube"></use></svg></a></li>
+            <li><a class="button button--icon button--outline button--rounded" href="" target="_blank" rel="noopener"><svg><use xlink:href=""></use></svg></a></li>
+            <li><a class="button button--icon button--outline button--rounded" href="" target="_blank" rel="noopener"><svg><use xlink:href=""></use></svg></a></li>
+            <li><a class="button button--icon button--outline button--rounded" href="" target="_blank" rel="noopener"><svg><use xlink:href=""></use></svg></a></li>
+            <li><a class="button button--icon button--outline button--rounded" href="" target="_blank" rel="noopener"><svg><use xlink:href=""></use></svg></a></li>
         </ul>
     </div>
 </div>
