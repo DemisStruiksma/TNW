@@ -7,6 +7,12 @@ I have created a WordPress theme, based on TNW Hard Fork: https://thenextweb.com
 - Bootstrap (for making it responsive)
 - Fakerpress plugin (for generating content for posts)
 
+# WORDPRESS
+- Username: demis
+- Password: tnwengineeringassignment
+- When you add a post in Wordpress (via the left menu), it will show up on the home/index page (front-page.php).
+
+
 # FIRST STEPS
 - The first step I took, was to download the latest WordPress version onto my MacBook. Then I setup up WordPress and created a database.
 - The next thing I did was adding all the basic files for a WordPress theme (index.php etc). After that, I added Bootstrap.
